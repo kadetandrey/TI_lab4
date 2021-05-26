@@ -1,0 +1,30 @@
+D:\С#\TI_Lab_4\TI_Lab_4\bin\Debug\TI_Lab_4.exe.config
+D:\С#\TI_Lab_4\TI_Lab_4\bin\Debug\TI_Lab_4.exe
+D:\С#\TI_Lab_4\TI_Lab_4\bin\Debug\TI_Lab_4.pdb
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.csprojAssemblyReference.cache
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\MainWindow.g.cs
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\App.g.cs
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4_MarkupCompile.cache
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4_MarkupCompile.lref
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\MainWindow.baml
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.g.resources
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.Properties.Resources.resources
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.csproj.GenerateResource.cache
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.csproj.CoreCompileInputs.cache
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.exe
+D:\С#\TI_Lab_4\TI_Lab_4\obj\Debug\TI_Lab_4.pdb
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\bin\Debug\TI_Lab_4.exe.config
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\bin\Debug\TI_Lab_4.exe
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\bin\Debug\TI_Lab_4.pdb
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.csprojAssemblyReference.cache
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\MainWindow.g.cs
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\App.g.cs
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4_MarkupCompile.cache
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4_MarkupCompile.lref
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\MainWindow.baml
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.g.resources
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.Properties.Resources.resources
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.csproj.GenerateResource.cache
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.csproj.CoreCompileInputs.cache
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.exe
+C:\Users\kadet\Downloads\TI_Lab_4-main (1)\TI_Lab_4-main\obj\Debug\TI_Lab_4.pdb
